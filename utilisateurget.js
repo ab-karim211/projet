@@ -9,5 +9,5 @@ app.get('/profile', isAuthenticated, (req, res) => {
             res.status(404).send('Utilisateur non trouvé.');
         }
     });
-    khjkhjghjgjghkjhug
+    
 });
